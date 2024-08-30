@@ -39,7 +39,7 @@ const ThemeToggleBtn = () => {
           tabIndex={0}
           className="dropdown-content menu bg-base-100 rounded-box z-[1] w-52 p-2 shadow"
         >
-          <li><a onClick={() => selectTheme("winter")}>Winter</a></li>
+          <li><a onClick={() => selectTheme("lofi")}>Lofi</a></li>
           <li><a onClick={() => selectTheme("night")}>Night</a></li>
           <li><a onClick={() => selectTheme("retro")}>Retro</a></li>
           <li><a onClick={() => selectTheme("forest")}>forest</a></li>

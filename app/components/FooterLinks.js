@@ -16,8 +16,8 @@ import { useAnimate } from "framer-motion";
 
 export const FooterLinks = () => {
   return (
-    <div className=" px-4 py-12">
-      <div className="mx-auto max-w-7xl">
+    <div className="">
+      <div className="">
         <ClipPathLinks />
       </div>
     </div>
