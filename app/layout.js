@@ -15,7 +15,7 @@ export default function RootLayout({ children }) {
     <html lang="en">
       <body className={varela.className}>
         <Navbar />
-        <div className="min-h-[calc(100vh-395px)]">{children}</div>
+        <div className="min-h-[calc(100vh-522px)]">{children}</div>
         <Footer />
       </body>
     </html>
